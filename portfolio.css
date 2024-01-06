@@ -1,0 +1,28 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+nav {
+    display:flex;
+}
+.mary{
+    color:#181818;
+    font-size:45px;
+    font-weight:800;
+}
+.text{
+    color:#FD6E0A;
+}
+nav > ul {
+    display: flex;
+}
+nav a {
+    text-decoration: none;
+}
+nav li {
+    list-style: none;
+margin-right: 50px;
+}
+.btn{
+    border-radius:5px;
+    background:#FD6E0A;
+}
